@@ -8,10 +8,3 @@ Kesalahan dalam peraturan mengakibatkan tidak dinilainya project
 5. Progress Project akan dinilai setiap minggunya.
 6. Segala bentuk kecurangan termasuk plagiarism tidak akan ditoleransi dan
 mengakibatkan NISBI E
-
-Nama Database: online_mart
-Username: root
-Password: 
-
-Backcolor Form : 64, 64, 64
-Forecolor Text : White
